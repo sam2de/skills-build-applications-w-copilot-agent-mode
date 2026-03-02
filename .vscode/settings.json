@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git checkout -b build-octofit-app && git push -u origin build-octofit-app$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
